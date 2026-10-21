@@ -1,0 +1,12 @@
+name: pandas-practice
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - matplotlib
+  - jupyterlab
+  - numpy
+  - pandas
+  - seaborn
+prefix: /home/woofung/miniforge3/envs/pandas-practice
